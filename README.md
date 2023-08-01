@@ -38,6 +38,8 @@
   </a>
 </p>
 
+## Github Stats
+
 <p align="center">
   <a href="https://github.com/Kevincarlosqa">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevincarlosqa&theme=radical&border=7F3FBF&background=0D1117" alt="Kevin's GitHub streak"/>
