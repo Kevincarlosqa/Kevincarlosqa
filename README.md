@@ -1,4 +1,3 @@
-### Hi there 👋
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.kevincarlosqa.dev/">Kevin Quispe Aquise</a></b>
@@ -10,7 +9,7 @@
   <samp>
 <!--     <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a> -->
     <br>
-    「 I am a full stack web developer from <b>Peru</b> 」
+    「 I am a Full Stack Web Developer from <b>Peru</b> 」
     <br>
     <br>
   </samp>
