@@ -1,20 +1,15 @@
-<h3 align="center">
+<!--<h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.kevincarlosqa.dev/">Kevin Quispe Aquise</a></b>
         </samp>
-</h3>
+</h3>-->
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Quispe!;" />
+</h1>
 
-<p align="center"> 
-  <samp>
-<!--     <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a> -->
-    <br>
-    「 I am a Full Stack Web Developer from <b>Peru</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
+<h3 align="center">「 I am a Full Stack Web Developer from <b>Peru</b> 」</h3>
+<br/>
 <p align="center">
  <a href="https://www.kevincarlosqa.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="kevin" />
@@ -28,7 +23,17 @@
 
 </p>
 <br />
+<div align="center">
+ 
+ 🔭 I’m currently working on a **NASA Art Gallery**
+ 
+ 🌱 I’m currently learning **Node JS, React Native and Angular**
 
+ 💬 Ask me about **Node.js, React, NextJS, Ruby on Rails ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+ ⚡ Fun fact **The term "bug" to describe programming errors originated when Grace Hopper found a moth trapped in a computer relay**
+ 
+ </div>
 ## About Me
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
