@@ -32,7 +32,7 @@
  
  🌱 I’m currently learning **Node JS, React Native and Angular**
 
- 💬 Ask me about **Node.js, React, NextJS, Ruby on Rails ... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, NextJS, Ruby on Rails ... or anything [here](https://github.com/Kevincarlosqa/Kevincarlosqa/issues)**
 
  ⚡ Fun fact **The term "bug" to describe programming errors originated when Grace Hopper found a moth trapped in a computer relay**
  
