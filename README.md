@@ -3,8 +3,9 @@
                 <b><a target="_blank" href="https://www.kevincarlosqa.dev/">Kevin Quispe Aquise</a></b>
         </samp>
 </h3>-->
+<a href="https://www.kevincarlosqa.dev/" target="_blank"> 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kevincarlosqa.visitor-badge.issue.1" />
-
+   </a>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Quispe!;" />
 </h1>
@@ -51,9 +52,9 @@
 <h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
   <div align="center">
-          <a href="https://www.kevincarlosqa.dev/">     
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs,emotion,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,nodejs,express" />
+          <a href="https://www.kevincarlosqa.dev/" target="_blank">     
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind,threejs" /><br>
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,nodejs,express,emotion,vscode" />
           </a>
   </div>
 <br/>
