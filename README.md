@@ -47,7 +47,7 @@
 
 <hr/>
 ### Dev Skills
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<h2 align="center">🐱‍💻 Tech Stack 🐱‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ruby,rails,tailwind,threejs,postgres,emotion,vscode" />
