@@ -37,20 +37,17 @@
  ⚡ Fun fact **The term "bug" to describe programming errors originated when Grace Hopper found a moth trapped in a computer relay**
  
  </div>
-## About Me
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+
 <!--   s
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
  -->
-</p>
 
-## Skills
+<hr/>
 ### Dev Skills
-
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ruby,rails,tailwind,threejs,postgres,emotion,vscode" />
@@ -62,12 +59,22 @@
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io) -->
+<hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kevincarlosqa/Kevincarlosqa/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
+</div>
+<hr/>
+<h2 align="center">⚡ Github Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Kevincarlosqa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Kevincarlosqa.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Kevincarlosqa.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 ## Github Stats
 
