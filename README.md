@@ -71,7 +71,9 @@
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align=center>
+<a href="https://github.com/Kevincarlosqa">
   <img width=390 src="https://streak-stats.demolab.com/?user=Kevincarlosqa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</a>
   <img width=390 src="https://github-readme-stats-Kevincarlosqa.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Kevincarlosqa.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
@@ -80,13 +82,13 @@
 
 <p align="center">
   <a href="https://github.com/Kevincarlosqa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevincarlosqa&theme=radical&border=808080&background=0D1117" alt="Kevin's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevincarlosqa&theme=react&border=808080&background=0D1117" alt="Kevin's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="[https://github.com/alsiam](https://github.com/Kevincarlosqa)">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevincarlosqa&theme=radical" alt="Kevin's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevincarlosqa&theme=react" alt="Kevin's GitHub Contribution"/>
   </a>
 </p>
 
@@ -94,11 +96,16 @@
     <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kevincarlosqa&show_icons=true&count_private=true&theme=react&border_color=808080&bg_color=0D1117&title_color=fe428e&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kevincarlosqa&langs_count=6&layout=compact&theme=react&border_color=808080&bg_color=0D1117&title_color=fe428e&icon_color=fe428e" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+
 
 
 
 <!--
+<a> 
+    <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kevincarlosqa&show_icons=true&count_private=true&theme=react&border_color=808080&bg_color=0D1117&title_color=fe428e&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kevincarlosqa&langs_count=6&layout=compact&theme=react&border_color=808080&bg_color=0D1117&title_color=fe428e&icon_color=fe428e" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 **Kevincarlosqa/Kevincarlosqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
