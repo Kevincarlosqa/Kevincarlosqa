@@ -67,10 +67,10 @@
   <h2>📅 My Contributions 📅</h2>
  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kevincarlosqa/Kevincarlosqa/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
   <hr/>
-  <br/>
 </div>
-<br/>
+
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align=center>
