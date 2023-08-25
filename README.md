@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Quispe!;" />
 </h1>
 
-<h3 align="center">「 I am a <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&pause=1000&vCenter=true&width=90&height=14&duration=4000&lines=Frontend;Backend;Full+Stack" /> Web Developer from <b>Peru</b> 🇵🇪 」</h3>
+<h3 align="center">「 I am a <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&pause=500&vCenter=true&width=90&height=14&duration=4000&lines=Frontend;Backend;Full+Stack" /> Web Developer from <b>Peru</b> 🇵🇪 」</h3>
 <br/>
 <p align="center">
 <a href="https://www.kevincarlosqa.dev/" target="_blank">
@@ -45,9 +45,9 @@
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
  -->
-
+<br/>
 <hr/>
-### Dev Skills
+
 <h2 align="center">💻 Tech Stack 💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -73,15 +73,21 @@
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align=center>
+        <p align="center">
+  <a href="[https://github.com/Kevincarlosqa](https://github.com/Kevincarlosqa)">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevincarlosqa&theme=react" alt="Kevin's GitHub Contribution"/>
+  </a>
+</p>
 <a href="https://github.com/Kevincarlosqa">
   <img width=390 src="https://streak-stats.demolab.com/?user=Kevincarlosqa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </a>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Kevincarlosqa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!--<img width=390 src="https://github-readme-stats.vercel.app/api?username=Kevincarlosqa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />-->
+         <a href="https://github.com/Kevincarlosqa"><img width=390  alt="Kevin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kevincarlosqa&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10"/></a>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevincarlosqa&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-## Github Stats
 
+<!--
 <p align="center">
   <a href="https://github.com/Kevincarlosqa">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevincarlosqa&theme=react&border=808080&background=0D1117" alt="Kevin's GitHub streak"/>
@@ -96,14 +102,13 @@
 
 <a> 
     <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kevincarlosqa&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kevincarlosqa&langs_count=6&layout=compact&theme=react&rank_icon=github&border_radius=10" height="192px"/></a>
-
+  <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kevincarlosqa&langs_count=6&layout=compact&theme=react&rank_icon=github&border_radius=10" height="192px"/></a>-->
 
 <br/><br/>
 <hr/>
 
 <h3 align="center">
-    <img  width=325 align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img  width=325 align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+😄">
 </h3>
 
 
