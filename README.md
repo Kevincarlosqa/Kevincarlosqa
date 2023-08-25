@@ -49,13 +49,14 @@
 <hr/>
 
 <h2 align="center">💻 Tech Stack 💻</h2>
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs,emotion,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,nodejs,express" />
   </a>
 </p>
-
+<br/>
 <!--## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
@@ -66,10 +67,10 @@
   <h2>📅 My Contributions 📅</h2>
  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kevincarlosqa/Kevincarlosqa/output/github-contribution-grid-snake.svg" />
-  
+  <hr/>
   <br/>
 </div>
-<hr/>
+<br/>
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align=center>
