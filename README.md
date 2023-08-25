@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Quispe!;" />
 </h1>
 
-<h3 align="center">「 I am a Full Stack Web Developer from <b>Peru</b> 」</h3>
+<h3 align="center">「 I am a <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=19&center=true&vCenter=true&width=100&height=15&duration=3500&lines=Frontend;Backend;Full+Stack" /> Web Developer from <b>Peru</b> 」</h3>
 <br/>
 <p align="center">
 <a href="https://www.kevincarlosqa.dev/" target="_blank">
