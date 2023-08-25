@@ -3,12 +3,13 @@
                 <b><a target="_blank" href="https://www.kevincarlosqa.dev/">Kevin Quispe Aquise</a></b>
         </samp>
 </h3>-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kevincarlosqa.visitor-badge.issue.1" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Quispe!;" />
 </h1>
 
-<h3 align="center">「 I am a <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=19&center=true&vCenter=true&width=100&height=15&duration=3500&lines=Frontend;Backend;Full+Stack" /> Web Developer from <b>Peru</b> 」</h3>
+<h3 align="center">「 I am a <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=100&height=15&duration=4000&lines=Frontend;Backend;Full+Stack" /> Web Developer from <b>Peru</b> 🇵🇪 」</h3>
 <br/>
 <p align="center">
 <a href="https://www.kevincarlosqa.dev/" target="_blank">
@@ -50,7 +51,8 @@
 <h2 align="center">🐱‍💻 Tech Stack 🐱‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ruby,rails,tailwind,threejs,postgres,emotion,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs,emotion,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,nodejs,express" />
   </a>
 </p>
 
@@ -61,7 +63,7 @@
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io) -->
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>📅 My Contributions 📅</h2>
  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kevincarlosqa/Kevincarlosqa/output/github-contribution-grid-snake.svg" />
   
@@ -74,9 +76,9 @@
 <a href="https://github.com/Kevincarlosqa">
   <img width=390 src="https://streak-stats.demolab.com/?user=Kevincarlosqa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </a>
-  <img width=390 src="https://github-readme-stats-Kevincarlosqa.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-Kevincarlosqa.vercel.app/api?username=Kevincarlosqa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Kevincarlosqa.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-Kevincarlosqa.vercel.app/api/top-langs/?username=Kevincarlosqa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 ## Github Stats
 
@@ -87,17 +89,22 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/alsiam](https://github.com/Kevincarlosqa)">
+  <a href="[https://github.com/Kevincarlosqa](https://github.com/Kevincarlosqa)">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevincarlosqa&theme=react" alt="Kevin's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kevincarlosqa&show_icons=true&count_private=true&theme=react&border_color=808080&bg_color=0D1117&title_color=fe428e&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kevincarlosqa&langs_count=6&layout=compact&theme=react&border_color=808080&bg_color=0D1117&title_color=fe428e&icon_color=fe428e" height="192px" width="49.5%"/></a>
-  <br/>
+    <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kevincarlosqa&show_icons=true&count_private=true&theme=react&border_color=808080&title_color=fe428e&rank_icon=github&border_radius=10" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Kevincarlosqa"><img alt="Kevin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kevincarlosqa&langs_count=6&layout=compact&theme=react&rank_icon=github&border_radius=10" height="192px"/></a>
 
 
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img  width=325 align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
 
 <!--
