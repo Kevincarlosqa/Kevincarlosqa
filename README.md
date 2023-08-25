@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Quispe!;" />
 </h1>
 
-<h3 align="center">「 I am a <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&pause=500&vCenter=true&width=90&height=14&duration=4000&lines=Frontend;Backend;Full+Stack" /> Web Developer from <b>Peru</b> 🇵🇪 」</h3>
+<h3 align="center">「 A Passionate <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&pause=500&vCenter=true&width=90&height=14&duration=4000&lines=Frontend;Backend;Full+Stack" /> Web Developer from <b>Peru</b> 🇵🇪 」</h3>
 <br/>
 <p align="center">
 <a href="https://www.kevincarlosqa.dev/" target="_blank">
@@ -50,19 +50,20 @@
 
 <h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
-<p align="center">
-  <a href="https://skillicons.dev">
+  <div align="center">
+          <a href="https://www.kevincarlosqa.dev/">     
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs,emotion,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,nodejs,express" />
-  </a>
-</p>
+          </a>
+  </div>
 <br/>
+<hr/>
 <!--## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io) -->
-<hr/>
+
 <div align="center">
   <h2>📅 My Contributions 📅</h2>
  
