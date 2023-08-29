@@ -4,6 +4,8 @@
         </samp>
 </h3>-->
 <a href="https://www.kevincarlosqa.dev/" target="_blank"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kevincarlosqa.visitor-badge.issue.1" /></a>
+[![GitHub Kevin Quispe](https://img.shields.io/github/followers/Kevincarlosqa?label=follow&style=social)](https://github.com/Kevincarlosqa)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Quispe!;" />
 </h1>
@@ -37,8 +39,8 @@
  ⚡ Fun fact **The term "bug" to describe programming errors originated when Grace Hopper found a moth trapped in a computer relay**
  
  </div>
-
 <!--   s
+<img align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
