@@ -30,9 +30,9 @@
 <br />
 <div align="center">
  
- 🔭 I’m currently working on a **NASA Art Gallery**
+ 🔭 I’m currently working on a **Photography Portfolio**
  
- 🌱 I’m currently learning **Node JS, React Native and Angular**
+ 🌱 I’m currently learning **Node JS, AWS and Docker**
 
  💬 Ask me about **Node.js, React, NextJS, Ruby on Rails ... or anything [here](https://github.com/Kevincarlosqa/Kevincarlosqa/issues)**
 
@@ -64,14 +64,14 @@
 <div align=center>
           <h2>📁 Top Open Source 📁</h2>
         
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&theme=react)](https://github.com/alsiam/web-projects)
+[![Portafolio Personal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&theme=react)](https://github.com/Kevincarlosqa/Portfolio)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&theme=react)](https://github.com/alsiam/al-folio)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&theme=react)](https://github.com/alsiam/alsiam)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&theme=react)](https://github.com/alsiam/alsiam.github.io)
 </div>
 
 <p align="center">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white&color=cyan"/></a>
+  <a href="https://github.com/Kevincarlosqa?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white&color=cyan"/></a>
 </p>
 <hr/>
 <div align="center">
