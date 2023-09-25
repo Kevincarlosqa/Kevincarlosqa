@@ -68,6 +68,7 @@
 [![Get That Job](https://github-readme-stats.vercel.app/api/pin/?username=Kevincarlosqa&repo=GetThatJob&theme=react)](https://github.com/Kevincarlosqa/GetThatJob)
 [![Imperium Gym](https://github-readme-stats.vercel.app/api/pin/?username=Kevincarlosqa&repo=gym-project&theme=react)](https://github.com/Kevincarlosqa/gym-project)
 [![AI Gear Hub](https://github-readme-stats.vercel.app/api/pin/?username=Kevincarlosqa&repo=AIToolProject&theme=react)](https://github.com/Kevincarlosqa/AIToolProject)
+
 </div>
 
 <p align="center">
